@@ -1,0 +1,1 @@
+# This is celestial-bodies-database activity from relational-database-course in freecodecamp >> README.md
